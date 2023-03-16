@@ -2,7 +2,7 @@
 # Primeros pasos con git
 
 ## Comandos
-
+```bash
 git init    #inicio el proyecto de git (1 sola)
 
 git status        #me muestra el estado actual del trabajo
@@ -21,7 +21,7 @@ git commit --amend                #permite corregir el último commit SI NO SE S
 git log            #permite ver el registro de commits (fecha, autor, commit message)
 
 git push    #subo mis nuevos commit a la nube
-
+```
 
 ## .gitignore
 Es un archivo que va en la misma carpeta donde arranca el proyecto (ubicación raíz)
