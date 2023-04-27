@@ -1,0 +1,4 @@
+funcion hola ()
+{
+	conmsole.log("hola");
+}
